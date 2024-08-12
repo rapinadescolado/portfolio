@@ -1,4 +1,4 @@
-# < <   R A P I N A   > >
+# <h1 align="center">< <   R A P I N A   > ></h1>
 > Esse é o meu portfólio, contendo informações sobre mim, objetivos pessoais, e projetos pessoais que já terminei ou que estou trabalhando no momento.
 
 ## Qual minha meta
